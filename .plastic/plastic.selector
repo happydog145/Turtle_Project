@@ -1,0 +1,4 @@
+repository "Main_dev@NareCONT@cloud"
+  path "/"
+    br "/main"
+    co "/main"
